@@ -4,6 +4,4 @@ log-config.samsungacr.com
 samsung.com
 samsungacr.com
 samsungads.com
-samsungcloudsolution.com
-samsungcloudsolution.net
 samsungotn.net
